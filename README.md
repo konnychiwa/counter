@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://konnycounter.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://counter-pak.netlify.app)
 
 As soos as the user enter the website, the counter will be 0, using the 3 buttons that appear below the number, the user can increase, decrease or reset the count.
 The buttons were build with DOM manipulation with JavaScript.
