@@ -10,14 +10,8 @@
   <p align="center">
     Develop a JavaScript application that allows the user to increment and decrement the value of a counter.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/konnychiwa/counter/issues">Report Bug</a>
   </p>
 </div>
 
@@ -49,7 +43,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://konnycounter.netlify.app/)
 
 As soos as the user enter the website, the counter will be 0, using the 3 buttons that appear below the number, the user can increase, decrease or reset the count.
 The buttons were build with DOM manipulation with JavaScript.
@@ -76,7 +70,7 @@ To use the website click here: https://konnycounter.netlify.app/
 <!-- CONTACT -->
 ## Contact
 
-Pamoda Angelo Konara - angelokonara04@gmai.com
+Pamoda Angelo Konara - angelokonara04@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
