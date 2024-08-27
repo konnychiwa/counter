@@ -29,10 +29,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -43,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://konnycounter.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://counter-pak.netlify.app)
 
 As soos as the user enter the website, the counter will be 0, using the 3 buttons that appear below the number, the user can increase, decrease or reset the count.
 The buttons were build with DOM manipulation with JavaScript.
@@ -63,7 +59,7 @@ The buttons were build with DOM manipulation with JavaScript.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-To use the website click here: https://konnycounter.netlify.app/
+To use the website click here: https://counter-pak.netlify.app/
 
 
 
@@ -71,8 +67,6 @@ To use the website click here: https://konnycounter.netlify.app/
 ## Contact
 
 Pamoda Angelo Konara - angelokonara04@gmail.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
