@@ -59,7 +59,7 @@ The buttons were build with DOM manipulation with JavaScript.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-To use the website click here: https://konnycounter.netlify.app/
+To use the website click here: https://counter-pak.netlify.app/
 
 
 
@@ -67,8 +67,6 @@ To use the website click here: https://konnycounter.netlify.app/
 ## Contact
 
 Pamoda Angelo Konara - angelokonara04@gmail.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
