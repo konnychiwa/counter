@@ -4,19 +4,22 @@ const increaseBtn = document.getElementById("increaseBtn");
 const decreaseBtn = document.getElementById("decreaseBtn");
 const resetBtn = document.getElementById("resetBtn");
 
-counterDisplay.textContent = count;
+function updateCounter() {
+  counterDisplay.textContent = count;
+}
 
 increaseBtn.addEventListener("click", () => {
   count++;
-  counterDisplay.textContent = count;
+  updateCounter();
 });
 
 decreaseBtn.addEventListener("click", () => {
   count--;
-  counterDisplay.textContent = count;
+  updateCounter();
 });
 
 resetBtn.addEventListener("click", () => {
   count = 0;
-  counterDisplay.textContent = count;
+  updateCounter();
 });
+
